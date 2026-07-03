@@ -1,0 +1,8 @@
+{
+  "DE ": {
+    "Subjectline111": "Bis zu 35% Rabatt starten jetzt!",
+    "Preheader111": "Der Sale ist endlich da.",
+    "HeaderImage111": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a462e7a95692900830c249c/original.jpg?1782984314",
+    "HeaderImageLink111": "https://www.buddyandselly.com/de-de/damen/new-in?lid=hbg8kwu5kplb&utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=header&klar_source=crm"
+  }
+}
