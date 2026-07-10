@@ -21,7 +21,16 @@
     "CouponCode111": "FREE_AMO",
     "CouponSubtext111": "Dein persönlicher Gutschein*",
     "CTA151": "Gutschein einlösen",
-    "CTA151Link": "https://www.buddyandselly.com/de-de/damen/new-in?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=code_box&klar_source=crm"
+    "CTA151Link": "https://www.buddyandselly.com/de-de/damen/new-in?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=code_box&klar_source=crm",
+    "Kachel Content Block": "",
+    "KachelImage111Desktop": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a43a07a1e0c13009e98557c/original.png?1782816889",
+    "KachelImage111Mobile": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a43a07f7f302f0085920720/original.png?1782816895",
+    "KachelText111": "Sandalen",
+    "KachelImage111Link": "https://www.buddyandselly.com/de-de/damen/schuhe/sandalen?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=flauschige&klar_source=crm",
+    "KachelImage121Desktop": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a4b79a6c27876008511aa12/original.jpg?1783331238",
+    "KachelImage121Mobile": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a4b79b51b046d00849e72bd/original.jpg?1783331252",
+    "KachelText121": "Tücher",
+    "KachelImage121Link": "https://www.buddyandselly.com/de-de/damen/accessoires/tuecher?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=flauschige&klar_source=crm"
   },
   "Male ": {
     "Discount Email 1": "",
@@ -45,7 +54,16 @@
     "CouponCode111": "FREE_AMO",
     "CouponSubtext111": "Dein persönlicher Gutschein*",
     "CTA151": "Gutschein einlösen",
-    "CTA151Link": "https://www.buddyandselly.com/de-de/damen/new-in?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=code_box&klar_source=crm"
+    "CTA151Link": "https://www.buddyandselly.com/de-de/damen/new-in?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=code_box&klar_source=crm",
+    "Kachel Content Block": "",
+    "KachelImage111Desktop": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a439450fb4511008395597a/original.png?1782813776",
+    "KachelImage111Mobile": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a439458500ca80085a272c8/original.png?1782813783",
+    "KachelText111": "Sandalen",
+    "KachelImage111Link": "https://www.buddyandselly.com/de-de/herren/schuhe/sandalen?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=flauschige&klar_source=crm",
+    "KachelImage121Desktop": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a4b7f619b61320085a21ff6/original.jpg?1783332705",
+    "KachelImage121Mobile": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a4b7f6b5f0f60009ec869cf/original.jpg?1783332714",
+    "KachelText121": "Gürtel",
+    "KachelImage121Link": "https://www.buddyandselly.com/de-de/herren/accessoires/guertel?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=flauschige&klar_source=crm"
   },
   "Unknown": {
     "Discount Email 1": "",
@@ -69,6 +87,15 @@
     "CouponCode111": "FREE_AMO",
     "CouponSubtext111": "Dein persönlicher Gutschein*",
     "CTA151": "Gutschein einlösen",
-    "CTA151Link": "https://www.buddyandselly.com/de-de/damen/new-in?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=code_box&klar_source=crm"
+    "CTA151Link": "https://www.buddyandselly.com/de-de/damen/new-in?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=code_box&klar_source=crm",
+    "Kachel Content Block": "",
+    "KachelImage111Desktop": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a43a07a1e0c13009e98557c/original.png?1782816889",
+    "KachelImage111Mobile": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a43a07f7f302f0085920720/original.png?1782816895",
+    "KachelText111": "Sandalen",
+    "KachelImage111Link": "https://www.buddyandselly.com/de-de/damen/schuhe/sandalen?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=flauschige&klar_source=crm",
+    "KachelImage121Desktop": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a4b79a6c27876008511aa12/original.jpg?1783331238",
+    "KachelImage121Mobile": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a4b79b51b046d00849e72bd/original.jpg?1783331252",
+    "KachelText121": "Tücher",
+    "KachelImage121Link": "https://www.buddyandselly.com/de-de/damen/accessoires/tuecher?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=flauschige&klar_source=crm"
   }
 }
