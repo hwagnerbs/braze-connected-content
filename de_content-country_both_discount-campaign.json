@@ -30,7 +30,8 @@
     "KachelImage121Desktop": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a4b79a6c27876008511aa12/original.jpg?1783331238",
     "KachelImage121Mobile": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a4b79b51b046d00849e72bd/original.jpg?1783331252",
     "KachelText121": "Tücher",
-    "KachelImage121Link": "https://www.buddyandselly.com/de-de/damen/accessoires/tuecher?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=flauschige&klar_source=crm"
+    "KachelImage121Link": "https://www.buddyandselly.com/de-de/damen/accessoires/tuecher?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=flauschige&klar_source=crm",
+    "KachelHTMLText": "Jetzt entdecken"
   },
   "Male ": {
     "Discount Email 1": "",
@@ -63,7 +64,8 @@
     "KachelImage121Desktop": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a4b7f619b61320085a21ff6/original.jpg?1783332705",
     "KachelImage121Mobile": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a4b7f6b5f0f60009ec869cf/original.jpg?1783332714",
     "KachelText121": "Gürtel",
-    "KachelImage121Link": "https://www.buddyandselly.com/de-de/herren/accessoires/guertel?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=flauschige&klar_source=crm"
+    "KachelImage121Link": "https://www.buddyandselly.com/de-de/herren/accessoires/guertel?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=flauschige&klar_source=crm",
+    "KachelHTMLText": "Jetzt entdecken"
   },
   "Unknown": {
     "Discount Email 1": "",
@@ -96,6 +98,7 @@
     "KachelImage121Desktop": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a4b79a6c27876008511aa12/original.jpg?1783331238",
     "KachelImage121Mobile": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a4b79b51b046d00849e72bd/original.jpg?1783331252",
     "KachelText121": "Tücher",
-    "KachelImage121Link": "https://www.buddyandselly.com/de-de/damen/accessoires/tuecher?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=flauschige&klar_source=crm"
+    "KachelImage121Link": "https://www.buddyandselly.com/de-de/damen/accessoires/tuecher?utm_source=crm&utm_medium=email&utm_campaign={{campaign.${name} | url_encode}}&utm_content=flauschige&klar_source=crm",
+    "KachelHTMLText": "Jetzt entdecken"
   }
 }
