@@ -1,7 +1,8 @@
 {
   "Female": {
     "Discount Email 1": "",
-    "Subjectline111": "Für {{${first_name} | default: 'Dich'}}: Bis zu 30%",
+    "Subjectline111": "Für",
+    "Subjectline112": ": Bis zu 30%",
     "Preheader111": "Nur kurz: Bis zu 30%",
     "Headline111": "⭐ 1 STD VORAB BIS ZU 30%⭐",
     "HeaderImage111black": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a4cedc5d0fb3d008306c1ab/original.png?1783426500",
@@ -49,7 +50,8 @@
   },
   "Male ": {
     "Discount Email 1": "",
-    "Subjectline111": "Für {{${first_name} | default: 'Dich'}}: Bis zu 30%",
+    "Subjectline111": "Für",
+    "Subjectline112": ": Bis zu 30%",
     "Preheader111": "Nur kurz: Bis zu 30%",
     "Headline111": "⭐ 1 STD VORAB BIS ZU 30%⭐",
     "HeaderImage111black": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a4cedc5d0fb3d008306c1ab/original.png?1783426500",
@@ -97,7 +99,8 @@
   },
   "Unknown": {
     "Discount Email 1": "",
-    "Subjectline111": "Für {{${first_name} | default: 'Dich'}}: Bis zu 30%",
+    "Subjectline111": "Für",
+    "Subjectline112": ": Bis zu 30%",
     "Preheader111": "Nur kurz: Bis zu 30%",
     "Headline111": "⭐ 1 STD VORAB BIS ZU 30%⭐",
     "HeaderImage111black": "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6a4cedc5d0fb3d008306c1ab/original.png?1783426500",
