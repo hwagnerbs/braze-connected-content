@@ -46,7 +46,19 @@
     "Warehouse Campaign Email 2: Reminder": "",
     "Subjectline311": "Noch verfügbar. ",
     "Preheader311": "Aber nicht für lange.",
-    "BodyText213": "Sichere dir deine Favoriten, bevor sie jemand anderes entdeckt."
+    "BodyText213": "Sichere dir deine Favoriten, bevor sie jemand anderes entdeckt.",
+    "Survey Email 1: High Engaged Lost": "",
+    "Subjectline411": "Dein Feedback zahlt sich aus",
+    "Preheader411": "Wir vermissen dich",
+    "Headline411": "2 Minuten Feedback, 50€ für dich",
+    "BodyText411": "du gehörst zu unseren treuesten Kund:innen – und genau deshalb ist uns aufgefallen, dass du eine Weile nicht mehr bei uns bestellt hast. Das beschäftigt uns, denn Kund:innen wie du sind uns besonders wichtig.",
+    "BodyText421": "Wir würden gerne verstehen, was passiert ist – ob es an uns lag, an dir, oder einfach am Leben, das manchmal dazwischenfunkt. Magst du uns 2–3 Minuten schenken und uns kurz sagen, was los war?",
+    "CTA411": "Zur Umfrage",
+    "CTA411Link": "https://havk15xu.forms.app/my-new-form",
+    "BodyText431": "Es ist komplett anonym, und dein Feedback hilft uns wirklich, es besser zu machen.",
+    "BodyText441": "Als Dankeschön erhältst Du am Ende Deiner Umfrage",
+    "BodyText442": "50€ Shopping-Guthaben ab einem Einkaufswert von 250€.",
+    "TnCs411": "*Der 50€ Gutschein ist 7 Tage gültig und ab einem Mindestbestellwert von 250€ auf alle Artikel, inklusive der Kategorie Sale anwendbar. Der Gutschein ist nicht mit anderen Aktionen oder Rabattcodes kombinierbar und kann nur einmal pro Kund:in eingelöst werden. Ein nachträglicher Rabatt wird nicht gewährt. Eine Barauszahlung ist ausgeschlossen."
   },
   "Male ": {
     "Discount Email 1": "",
@@ -95,7 +107,19 @@
     "Warehouse Campaign Email 2: Reminder": "",
     "Subjectline311": "Noch verfügbar. ",
     "Preheader311": "Aber nicht für lange.",
-    "BodyText213": "Sichere dir deine Favoriten, bevor sie jemand anderes entdeckt."
+    "BodyText213": "Sichere dir deine Favoriten, bevor sie jemand anderes entdeckt.",
+    "Survey Email 1: High Engaged Lost": "",
+    "Subjectline411": "Dein Feedback zahlt sich aus",
+    "Preheader411": "Wir vermissen dich",
+    "Headline411": "2 Minuten Feedback, 50€ für dich",
+    "BodyText411": "du gehörst zu unseren treuesten Kund:innen – und genau deshalb ist uns aufgefallen, dass du eine Weile nicht mehr bei uns bestellt hast. Das beschäftigt uns, denn Kund:innen wie du sind uns besonders wichtig.",
+    "BodyText421": "Wir würden gerne verstehen, was passiert ist – ob es an uns lag, an dir, oder einfach am Leben, das manchmal dazwischenfunkt. Magst du uns 2–3 Minuten schenken und uns kurz sagen, was los war?",
+    "CTA411": "Zur Umfrage",
+    "CTA411Link": "https://havk15xu.forms.app/my-new-form",
+    "BodyText431": "Es ist komplett anonym, und dein Feedback hilft uns wirklich, es besser zu machen.",
+    "BodyText441": "Als Dankeschön erhältst Du am Ende Deiner Umfrage",
+    "BodyText442": "50€ Shopping-Guthaben ab einem Einkaufswert von 250€.",
+    "TnCs411": "*Der 50€ Gutschein ist 7 Tage gültig und ab einem Mindestbestellwert von 250€ auf alle Artikel, inklusive der Kategorie Sale anwendbar. Der Gutschein ist nicht mit anderen Aktionen oder Rabattcodes kombinierbar und kann nur einmal pro Kund:in eingelöst werden. Ein nachträglicher Rabatt wird nicht gewährt. Eine Barauszahlung ist ausgeschlossen."
   },
   "Unknown": {
     "Discount Email 1": "",
@@ -144,6 +168,18 @@
     "Warehouse Campaign Email 2: Reminder": "",
     "Subjectline311": "Noch verfügbar. ",
     "Preheader311": "Aber nicht für lange.",
-    "BodyText213": "Sichere dir deine Favoriten, bevor sie jemand anderes entdeckt."
+    "BodyText213": "Sichere dir deine Favoriten, bevor sie jemand anderes entdeckt.",
+    "Survey Email 1: High Engaged Lost": "",
+    "Subjectline411": "Dein Feedback zahlt sich aus",
+    "Preheader411": "Wir vermissen dich",
+    "Headline411": "2 Minuten Feedback, 50€ für dich",
+    "BodyText411": "du gehörst zu unseren treuesten Kund:innen – und genau deshalb ist uns aufgefallen, dass du eine Weile nicht mehr bei uns bestellt hast. Das beschäftigt uns, denn Kund:innen wie du sind uns besonders wichtig.",
+    "BodyText421": "Wir würden gerne verstehen, was passiert ist – ob es an uns lag, an dir, oder einfach am Leben, das manchmal dazwischenfunkt. Magst du uns 2–3 Minuten schenken und uns kurz sagen, was los war?",
+    "CTA411": "Zur Umfrage",
+    "CTA411Link": "https://havk15xu.forms.app/my-new-form",
+    "BodyText431": "Es ist komplett anonym, und dein Feedback hilft uns wirklich, es besser zu machen.",
+    "BodyText441": "Als Dankeschön erhältst Du am Ende Deiner Umfrage",
+    "BodyText442": "50€ Shopping-Guthaben ab einem Einkaufswert von 250€.",
+    "TnCs411": "*Der 50€ Gutschein ist 7 Tage gültig und ab einem Mindestbestellwert von 250€ auf alle Artikel, inklusive der Kategorie Sale anwendbar. Der Gutschein ist nicht mit anderen Aktionen oder Rabattcodes kombinierbar und kann nur einmal pro Kund:in eingelöst werden. Ein nachträglicher Rabatt wird nicht gewährt. Eine Barauszahlung ist ausgeschlossen."
   }
 }
